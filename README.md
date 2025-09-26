@@ -1,3 +1,9 @@
+# Auth with Google is working
+
+1. open in browser: http://localhost:3000/auth/google
+2. login with Google account
+3. success
+
 # Create table `users` in supabase
 
 ```sql
